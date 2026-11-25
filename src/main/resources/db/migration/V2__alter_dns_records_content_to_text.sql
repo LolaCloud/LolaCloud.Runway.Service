@@ -1,0 +1,1 @@
+ALTER TABLE dns_records ALTER COLUMN content TYPE TEXT;
